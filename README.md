@@ -14,6 +14,7 @@ Con el fin de resolver esta problemática, diferentes organizaciones, como el Co
 ![Figura1](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-016-1044-7/MediaObjects/13059_2016_1044_Fig1_HTML.gif?as=webp)
 
 Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).
+
 Bibliografía
 
 Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). Open Science Training Handbook. Zenodo. https://doi.org/10.5281/ZENODO.1212496
